@@ -11,7 +11,7 @@ place for everyone.
 Thank you so much for all that you have done and do.
 
 Signed,
-
+- Serg Serdyuk ([@Webakula](https://github.com/webakula)), PHP, Laravel Developer, Ukraine
 - Abdulaziz Alnasi ([@Abu3safeer](https://github.com/Abu3safeer)), PHP and Laravel lover
 - Abdullah Hejazi ([@Abdullah-Hejazi](https://github.com/Abdullah-Hejazi)), Full Stack Web Developer, Cairo, Egypt
 - Abdullah Ramzan ([@abdullah1908](https://github.com/abdullah1908)), WP Expert, Lahore Pakistan
